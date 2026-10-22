@@ -1,13 +1,13 @@
-# Introduction to Statistics
+## Introduction to Statistics
 ---
 
-## 📘 Overview
+### 📘 Overview
 
 This repository contains the **Introduction to Statistics** lecture notes prepared for undergraduate students in the College of Natural and Computational Sciences at Haramaya University. The material provides a comprehensive foundation in statistical concepts, from basic definitions to introductory inferential statistics, correlation, and regression.
 
 ---
 
-## 📋 Table of Contents
+### 📋 Table of Contents
 
 - **Chapter 1**: Introduction and Definition of Statistics
   - History, definitions, uses, limitations
@@ -39,13 +39,13 @@ This repository contains the **Introduction to Statistics** lecture notes prepar
 
 ---
 
-## 📂 Files
+### 📂 Files
 
 - `Introduction to Statistics.pdf` – Complete document (106 pages)
 
 ---
 
-## 👤 Authors & Editors
+### 👤 Authors & Editors
 
 - **Writer**: Teshome K. Deressa, Department of Statistics
 - **Editors**: 
@@ -56,7 +56,7 @@ This repository contains the **Introduction to Statistics** lecture notes prepar
 
 ---
 
-## 🎯 Target Audience
+### 🎯 Target Audience
 
 - Undergraduate students in Statistics, Natural Sciences, Computational Sciences, and related fields
 - Anyone looking for a clear, beginner-friendly introduction to statistics
